@@ -1,0 +1,6 @@
+A b c d e. A b c d f. 
+
+To do: Map
+Attempt to load over current source file
+Save out a csv with the markov data
+Documentation
